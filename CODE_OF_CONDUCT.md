@@ -77,7 +77,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 يمكن الإبلاغ عن حالات السلوك المسيء أو المتحرش أو غير المقبول إلى قادة مجتمع 7T المسؤولين عن التنفيذ على:
 
-📧 **conduct@7t.dev**
+📧 **conduct@7tteam.com**
 
 All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
