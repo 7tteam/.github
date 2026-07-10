@@ -318,10 +318,10 @@ instead of individual `cpu`, `memory`, and `disk` parameters.
 
 ## Getting Help | الحصول على المساعدة
 
-- **Questions?** Open a [Discussion](https://github.com/orgs/7T/discussions) on GitHub
-- **Found a bug?** Open an [Issue](https://github.com/7T/<repo>/issues) using the bug report template
-- **Feature idea?** Open an [Issue](https://github.com/7T/<repo>/issues) using the feature request template
-- **Security concern?** Email security@7t.dev directly (do not open a public issue)
+- **Questions?** Open a [Discussion](https://github.com/orgs/7tteam/discussions) on GitHub
+- **Found a bug?** Open an [Issue](https://github.com/7tteam/<repo>/issues) using the bug report template
+- **Feature idea?** Open an [Issue](https://github.com/7tteam/<repo>/issues) using the feature request template
+- **Security concern?** Email security@7tteam.com directly (do not open a public issue)
 
 ---
 
